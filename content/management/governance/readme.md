@@ -17,7 +17,7 @@
     1. [Management Groups Overview](https://docs.microsoft.com/en-us/azure/governance/management-groups/overview)
     1. [Define Naming Conventions](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming)
     1. [Developing Naming and Tagging Strategy](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/naming-and-tagging)
-    1. [Locks](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/lock-resources)
+    1. [Lock resources](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/lock-resources)
 1. Manage policy and compliance
     1. [Azure Policy](https://docs.microsoft.com/en-us/azure/governance/policy/overview)
     1. [Policy Effects](https://docs.microsoft.com/en-us/azure/governance/policy/concepts/effects)
